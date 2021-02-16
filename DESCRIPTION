@@ -1,0 +1,10 @@
+Package: plot.counts
+Type: Package
+Title: Utility functions for elementary analysis and plots of cell counts under different conditions
+Version: 1.0
+Date: 2012-07-22
+Author: Thomas Braschler
+Maintainer: Thomas Braschler <thomas.braschler@gmail.com>
+Description: T-tests, elementary linear regression and plotting of count data
+License: GPL (>= 2)
+LazyLoad: yes

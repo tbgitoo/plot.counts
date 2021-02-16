@@ -1,0 +1,13 @@
+export("barplot_with_errorbars",
+       "barplot_xpos",
+       "errorbars",
+       "get_associated_values",
+	"get_t_test_matrix",
+	"multipleHistograms",
+	"pie_with_errorbars",
+	"plot_counts",
+	"sd_mean",
+	"significance_labels",
+    "plot_dot_column",
+    "barplot_dots",
+    "change_diagram")
