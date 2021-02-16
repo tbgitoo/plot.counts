@@ -1,0 +1,225 @@
+* using log directory ‘/Users/thomasbraschler/Documents/R_workspace/Git/plot.counts/plot.counts.Rcheck’
+* using R version 4.0.2 (2020-06-22)
+* using platform: x86_64-apple-darwin17.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘plot.counts/DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘plot.counts’ version ‘1.0’
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking for hidden files and directories ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘plot.counts’ can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Malformed Description field: should contain one or more complete sentences.
+Invalid license file pointers: LICENCE
+* checking top-level files ... NOTE
+File
+  LICENSE
+is not mentioned in the DESCRIPTION file.
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... NOTE
+barplot_dots: no visible global function definition for ‘aggregate’
+barplot_dots: no visible binding for global variable ‘sd’
+barplot_with_errorbars: no visible binding for global variable
+  ‘barplot’
+barplot_with_errorbars: no visible global function definition for
+  ‘text’
+barplot_xpos: no visible global function definition for ‘par’
+barplot_xpos: no visible global function definition for ‘plot.window’
+barplot_xpos: no visible global function definition for ‘rect’
+barplot_xpos: no visible global function definition for ‘title’
+barplot_xpos: no visible global function definition for ‘axis’
+change_diagram: possible error in length(y_initial, y_final): argument
+  inutilisé (y_final)
+change_diagram: no visible global function definition for ‘palette’
+change_diagram: no visible binding for global variable ‘lines’
+errorbars: no visible global function definition for ‘arrows’
+get_t_test_matrix: no visible global function definition for ‘t.test’
+multipleHistograms: no visible global function definition for ‘grey’
+multipleHistograms: no visible global function definition for ‘par’
+multipleHistograms: no visible global function definition for ‘hist’
+multipleHistograms: no visible global function definition for ‘barplot’
+multipleHistograms: no visible binding for global variable ‘legend’
+multipleHistograms: no visible global function definition for ‘axis’
+pie_with_errorbars: no visible global function definition for
+  ‘as.graphicsAnnot’
+pie_with_errorbars: no visible global function definition for
+  ‘plot.new’
+pie_with_errorbars: no visible global function definition for ‘par’
+pie_with_errorbars: no visible global function definition for
+  ‘plot.window’
+pie_with_errorbars: no visible global function definition for ‘polygon’
+pie_with_errorbars: no visible global function definition for ‘lines’
+pie_with_errorbars: no visible global function definition for ‘text’
+pie_with_errorbars: no visible global function definition for ‘title’
+plot_counts: no visible global function definition for ‘sd’
+plot_counts: no visible global function definition for ‘aggregate’
+plot_counts: no visible global function definition for ‘palette’
+plot_counts: no visible global function definition for ‘xy.coords’
+plot_counts: no visible binding for global variable ‘plot.xy’
+plot_counts: no visible global function definition for ‘arrows’
+plot_counts: no visible global function definition for ‘lm’
+plot_counts: no visible global function definition for ‘plot.xy’
+plot_counts: no visible global function definition for ‘text’
+sd_mean: no visible global function definition for ‘sd’
+single_dot_column: no visible global function definition for ‘lines’
+Undefined global functions or variables:
+  aggregate arrows as.graphicsAnnot axis barplot grey hist legend lines
+  lm palette par plot.new plot.window plot.xy polygon rect sd t.test
+  text title xy.coords
+Consider adding
+  importFrom("grDevices", "as.graphicsAnnot", "grey", "palette",
+             "xy.coords")
+  importFrom("graphics", "arrows", "axis", "barplot", "hist", "legend",
+             "lines", "par", "plot.new", "plot.window", "plot.xy",
+             "polygon", "rect", "text", "title")
+  importFrom("stats", "aggregate", "lm", "sd", "t.test")
+to your NAMESPACE file.
+* checking Rd files ... NOTE
+prepare_Rd: plot.counts-package.Rd:29-31: Dropping empty section \examples
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... WARNING
+Codoc mismatches from documentation object 'barplot_dots':
+barplot_dots
+  Code: function(treatment, data, main = NULL, xlab = NULL, ylab =
+                 NULL, sig_codes = NULL, ylim = NULL, xpd = NA,
+                 cex.axis = NULL, cex.lab = NULL, las = NULL, sig.cex =
+                 NULL, cex = 1, ...)
+  Docs: function(treatment, data, main = NULL, xlab = NULL, ylab =
+                 NULL, sig_codes = NULL, ylim = NULL, xpd = NA,
+                 cex.axis = NULL, cex.lab = NULL, ...)
+  Argument names in code not in docs:
+    las sig.cex cex
+  Mismatches in argument names:
+    Position: 11 Code: las Docs: ...
+
+Codoc mismatches from documentation object 'plot_counts':
+plot_counts
+  Code: function(x, y, sd_y = NULL, sig_codes = NULL, showlinreg =
+                 "NONE", plot.new = TRUE, groups = NULL, group_order =
+                 NULL, weights = NULL, category_bounds = NULL, sig.cex
+                 = 1, sd_x = NULL, ...)
+  Docs: function(x, y, sd_y = NULL, sig_codes = NULL, showlinreg =
+                 "NONE", plot.new = TRUE, groups = NULL, group_order =
+                 NULL, weights = NULL, category_bounds = NULL, sig.cex
+                 = 1, ...)
+  Argument names in code not in docs:
+    sd_x
+  Mismatches in argument names:
+    Position: 12 Code: sd_x Docs: ...
+
+Codoc mismatches from documentation object 'plot_dot_column':
+plot_dot_column
+  Code: function(x, y, y_threshold_for_shifting = 0.1, lateral_shift =
+                 0.06, type = "p", ...)
+  Docs: function(x, y, y_threshold_for_shifting = 0.1, lateral_shift =
+                 0.06, type = "p", group_order = NULL, ...)
+  Argument names in docs not in code:
+    group_order
+  Mismatches in argument names:
+    Position: 6 Code: ... Docs: group_order
+
+* checking Rd \usage sections ... WARNING
+Documented arguments not in \usage in documentation object 'barplot_dots':
+  ‘las’ ‘sig.cex’
+
+Undocumented arguments in documentation object 'plot_dot_column'
+  ‘group_order’
+
+Functions with \usage entries need to have the appropriate \alias
+entries, and all their arguments documented.
+The \usage entries must correspond to syntactically valid R code.
+See chapter ‘Writing R documentation files’ in the ‘Writing R
+Extensions’ manual.
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking examples ... OK
+* checking PDF version of manual ... WARNING
+LaTeX errors when creating PDF version.
+This typically indicates Rd problems.
+LaTeX errors found:
+! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.8 \begin{document}
+! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 \chapter*{}
+! Font T1/ptm/b/n/24.88=ptmb8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 \chapter*{}
+! Font T1/ptm/b/n/10=ptmb8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.11 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/b/n/20.74=ptmb8t at 20.74pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.11 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/m/n/12=ptmr8t at 12.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.12 \par\bigskip{\large
+! Font T1/ptm/m/n/14.4=ptmr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...subsection}{plot.counts-package}{1}{page.1}
+! Font T1/ptm/b/n/14.4=ptmb8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...subsection}{plot.counts-package}{1}{page.1}
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...subsection}{plot.counts-package}{1}{page.1}
+! Font T1/ptm/m/it/10=ptmri8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.30 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/ptm/m/sl/10=ptmro8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.140 \begin
+! Font T1/ptm/m/n/9=ptmr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.384 \begin{ExampleCode}
+                         
+* checking PDF version of manual without hyperrefs or index ... ERROR
+* DONE
+Status: 1 ERROR, 3 WARNINGs, 4 NOTEs

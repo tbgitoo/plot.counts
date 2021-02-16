@@ -1,0 +1,970 @@
+Hmm ... looks like a package
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/opt/local/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/opt/local/share/texmf-texlive/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/opt/local/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/longtable.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/bm.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/alltt.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/opt/local/share/texmf-texlive/tex/latex/url/url.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/textcomp.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/fontenc.sty)
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/times.sty))
+(/opt/local/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/opt/local/share/texmf-texlive/tex/latex/base/latin1.def))
+(/opt/local/share/texmf-texlive/tex/latex/l3backend/l3backend-pdfmode.def)
+No file Rd2.aux.
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd)
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.6 \begin{document}
+                    
+! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+               
+! Font T1/ptm/b/n/24.88=ptmb8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+               
+! Font T1/ptm/b/n/10=ptmb8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+                                         }
+! Font T1/ptm/b/n/20.74=ptmb8t at 20.74pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+                                         }
+! Font T1/ptm/m/n/12=ptmr8t at 12.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.10 \par\bigskip{\large
+                         \today}
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd)
+kpathsea: Running mktextfm pcrr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...schler }\email{thomas.braschler@gmail.com}
+                                                  \AsIs{}
+No file Rd2.toc.
+(/opt/local/share/texmf-texlive/tex/latex/base/utf8.def)
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+! Font T1/ptm/m/n/14.4=ptmr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+                                                  
+! Font T1/ptm/b/n/14.4=ptmb8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+                                                  
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1phv.fd
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+)
+kpathsea: Running mktextfm phvr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for phvr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf phvr8t
+
+! I can't find file `phvr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Transcript written on mfput.log.
+grep: phvr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t' failed to make phvr8t.tfm.
+
+kpathsea: Running mktextfm ptmri8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmri8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmri8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmri8t
+
+! I can't find file `ptmri8t'.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmri8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmri8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmri8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmri8t' failed to make ptmri8t.tfm.
+
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+                                                  
+! Font T1/ptm/m/it/10=ptmri8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+                                                  
+[1]
+kpathsea: Running mktextfm ptmro8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmro8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmro8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmro8t
+
+! I can't find file `ptmro8t'.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmro8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmro8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmro8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmro8t' failed to make ptmro8t.tfm.
+
+! Font T1/ptm/m/sl/10=ptmro8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.213 \item[\code{xlim}]
+                        
+[2] [3]
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm pcrr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+! Font T1/ptm/m/n/9=ptmr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+[5] [6] [7] [8] (./Rd2.aux) )
+(see the transcript file for additional information)
+Output written on Rd2.pdf (8 pages, 2434 bytes).
+Transcript written on Rd2.log.
+Error in texi2dvi(file = file, pdf = TRUE, clean = clean, quiet = quiet,  : 
+  impossible d'exécuter pdflatex sur 'Rd2.tex'
+LaTeX errors:
+! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.6 \begin{document}
+! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+! Font T1/ptm/b/n/24.88=ptmb8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+! Font T1/ptm/b/n/10=ptmb8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/b/n/20.74=ptmb8t at 20.74pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/m/n/12=ptmr8t at 12.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.10 \par\bigskip{\large
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...schler }\email{thomas.braschler@gmail.com}
+! Font T1/ptm/m/n/14.4=ptmr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/ptm/b/n/14.4=ptmb8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/ptm/m/it/10=ptmri8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/ptm/m/sl/10=ptmro8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.213 \item[\code{xlim}]
+! Font T1/ptm/m/n/9=ptmr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Rd2.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/opt/local/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/opt/local/share/texmf-texlive/tex/latex/base/bk10.clo))
+(/Library/Frameworks/R.framework/Resources/share/texmf/tex/latex/Rd.sty
+(/opt/local/share/texmf-texlive/tex/latex/base/ifthen.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/longtable.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/bm.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/alltt.sty)
+(/opt/local/share/texmf-texlive/tex/latex/tools/verbatim.sty)
+(/opt/local/share/texmf-texlive/tex/latex/url/url.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/textcomp.sty)
+(/opt/local/share/texmf-texlive/tex/latex/base/fontenc.sty)
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/times.sty))
+(/opt/local/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/opt/local/share/texmf-texlive/tex/latex/base/latin1.def))
+(/opt/local/share/texmf-texlive/tex/latex/l3backend/l3backend-pdfmode.def)
+(./Rd2.aux) (/opt/local/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd)
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.6 \begin{document}
+                    
+! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+               
+! Font T1/ptm/b/n/24.88=ptmb8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+               
+! Font T1/ptm/b/n/10=ptmb8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+                                         }
+! Font T1/ptm/b/n/20.74=ptmb8t at 20.74pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+                                         }
+! Font T1/ptm/m/n/12=ptmr8t at 12.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.10 \par\bigskip{\large
+                         \today}
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd)
+kpathsea: Running mktextfm pcrr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...schler }\email{thomas.braschler@gmail.com}
+                                                  \AsIs{}
+(./Rd2.toc
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm ptmb8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmb8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmb8t
+
+! I can't find file `ptmb8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmb8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmb8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmb8t' failed to make ptmb8t.tfm.
+
+! Font T1/ptm/m/n/14.4=ptmr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+                                                  %
+! Font T1/ptm/b/n/14.4=ptmb8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+                                                  %
+(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1phv.fd
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+)
+kpathsea: Running mktextfm phvr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for phvr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf phvr8t
+
+! I can't find file `phvr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input phvr8t
+                                                  
+Transcript written on mfput.log.
+grep: phvr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input phvr8t' failed to make phvr8t.tfm.
+
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+                                                  %
+) (/opt/local/share/texmf-texlive/tex/latex/base/utf8.def)
+kpathsea: Running mktextfm ptmri8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmri8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmri8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmri8t
+
+! I can't find file `ptmri8t'.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmri8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmri8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmri8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmri8t' failed to make ptmri8t.tfm.
+
+! Font T1/ptm/m/it/10=ptmri8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+                                                  
+
+Overfull \vbox (17.05666pt too high) has occurred while \output is active
+[1]
+kpathsea: Running mktextfm ptmro8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmro8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmro8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmro8t
+
+! I can't find file `ptmro8t'.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmro8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...jfour; mag:=1; ; nonstopmode; input ptmro8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmro8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmro8t' failed to make ptmro8t.tfm.
+
+! Font T1/ptm/m/sl/10=ptmro8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.192 \item[\code{width}]
+                         
+[2] [3]
+kpathsea: Running mktextfm ptmr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for ptmr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr8t
+
+! I can't find file `ptmr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr8t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr8t' failed to make ptmr8t.tfm.
+
+kpathsea: Running mktextfm pcrr8t
+/opt/local/share/texmf-texlive/web2c/mktexnam: Could not map source abbreviation  for pcrr8t.
+/opt/local/share/texmf-texlive/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t
+This is METAFONT, Version 2.7182818 (TeX Live 2020/MacPorts 2020.54632_1) (preloaded base=mf)
+
+kpathsea: Running mktexmf pcrr8t
+
+! I can't find file `pcrr8t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input pcrr8t
+                                                  
+Transcript written on mfput.log.
+grep: pcrr8t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input pcrr8t' failed to make pcrr8t.tfm.
+
+! Font T1/ptm/m/n/9=ptmr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+[5] [6] [7] [8] (./Rd2.aux) )
+(see the transcript file for additional information)
+Output written on Rd2.pdf (8 pages, 2432 bytes).
+Transcript written on Rd2.log.
+Error in texi2dvi(file = file, pdf = TRUE, clean = clean, quiet = quiet,  : 
+  impossible d'exécuter pdflatex sur 'Rd2.tex'
+LaTeX errors:
+! Font T1/ptm/m/n/10=ptmr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.6 \begin{document}
+! Font T1/ptm/m/n/24.88=ptmr8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+! Font T1/ptm/b/n/24.88=ptmb8t at 24.88pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.7 \chapter*{}
+! Font T1/ptm/b/n/10=ptmb8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/b/n/20.74=ptmb8t at 20.74pt not loadable: Metric (TFM) file not f
+ound.
+<to be read again> 
+                   relax 
+l.9 {\textbf{\huge Package `plot.counts'}
+! Font T1/ptm/m/n/12=ptmr8t at 12.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.10 \par\bigskip{\large
+! Font T1/pcr/m/n/10=pcrr8t at 10.0pt not loadable: Metric (TFM) file not found
+.
+<to be read again> 
+                   relax 
+l.20 ...schler }\email{thomas.braschler@gmail.com}
+! Font T1/ptm/m/n/14.4=ptmr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+! Font T1/ptm/b/n/14.4=ptmb8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+! Font T1/phv/m/n/14.4=phvr8t at 14.4pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.1 ...tsline {subsection}{plot.counts-package}{1}
+! Font T1/ptm/m/it/10=ptmri8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.28 ...e}{plot.counts}{plot.counts.Rdash.package}
+! Font T1/ptm/m/sl/10=ptmro8t at 10.0pt not loadable: Metric (TFM) file not fou
+nd.
+<to be read again> 
+                   relax 
+l.192 \item[\code{width}]
+! Font T1/ptm/m/n/9=ptmr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+! Font T1/pcr/m/n/9=pcrr8t at 9.0pt not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   relax 
+l.382 \begin{ExampleCode}
+                         
+Erreur lors de l'exécution de tools::texi2pdf()
+You may want to clean up by 'rm -Rf /var/folders/50/lzwg1g5x3yd60g522gkhnlmh0000gn/T//Rtmpm5V59d/Rd2pdf395626865237'
