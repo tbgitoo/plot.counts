@@ -26,6 +26,3 @@ Maintainer: thomas.braschler@gmail.com
 }
 \keyword{ package }
 
-\examples{
-
-}

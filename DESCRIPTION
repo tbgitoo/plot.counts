@@ -5,6 +5,6 @@ Version: 1.0
 Date: 2012-07-22
 Author: Thomas Braschler
 Maintainer: Thomas Braschler <thomas.braschler@gmail.com>
-Description: T-tests, elementary linear regression and plotting of count data
+Description: This package contains convenience implentations for plotting, particularly for count data.
 License: GPL-3 | file LICENCE
 LazyLoad: yes

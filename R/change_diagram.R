@@ -11,7 +11,7 @@ change_diagram<-function(y_initial,y_final,x_initial=NULL,x_final=NULL,groups=NU
             # x_final has only one distinct value
             if(length(unique(x_final))==1)
             {
-                x_initial=rep(x_final[1]-1,max(length(y_initial,y_final)))
+                x_initial=rep(x_final[1]-1,max(length(y_initial),length(y_final)))
             } else
             {
                 x_initial=rep(2*min(x_final)-max(x_final),max(length(y_initial),length(y_final)))

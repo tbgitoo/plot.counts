@@ -8,7 +8,7 @@ barplot_dots
 Bar plots for count data with errorbars and significance levels
 }
 \usage{
-barplot_dots(treatment,data,main=NULL,xlab=NULL,ylab=NULL,sig_codes=NULL,ylim=NULL,xpd=NA,cex.axis=NULL,cex.lab=NULL,...)
+barplot_dots(treatment,data,main=NULL,xlab=NULL,ylab=NULL,sig_codes=NULL,ylim=NULL,xpd=NA,cex.axis=NULL,cex.lab=NULL,las=NULL,sig.cex=NULL,cex=1,...)
 }
 
 \arguments{
@@ -52,10 +52,9 @@ Label orientation for axis (graphical parameter as described in \link{par})
 \item{sig.cex}{
 Character expansion for the significance label (see \link{barplot_with_errorbars}, used internally)
 }
-
-
-
- 
+\item{cex}{
+General character expansion (see \link{par})
+}
 \item{...}{
 Additional graphical parameters, to be passed specifically to \link{plot_dot_column}, used internally.
 }

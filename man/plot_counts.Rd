@@ -9,7 +9,7 @@ Plots count data with errorbars, significance levels and regression model
 }
 \usage{
 	             
-plot_counts(x, y, sd_y=NULL,sig_codes=NULL, showlinreg="NONE", plot.new = TRUE, groups=NULL, group_order = NULL, weights=NULL, category_bounds=NULL, sig.cex=1,...)
+plot_counts(x,y,sd_y=NULL,sig_codes=NULL,showlinreg="NONE", plot.new = TRUE, groups=NULL, group_order = NULL, weights=NULL, category_bounds=NULL,sig.cex=1,sd_x=NULL,...)
 }
 
 \arguments{
@@ -53,6 +53,7 @@ Explicit specification of the weights for the linear regression (useful only if 
 
 \item{sig.cex}{Character expansion (cex) for the significance labels. Relevant only if \code{sig_codes} is supplied}
 
+\item{sd_x}{Standard deviation of x values if available}
 
 \item{...}{
 Additional graphical parameters, such as xlab, ylab, col

@@ -9,7 +9,7 @@ Dot-plot showing individual values, with lateral shift if the y values are too c
 }
 \usage{
 	             
-plot_dot_column(x,y,y_threshold_for_shifting=0.1,lateral_shift=0.06,type="p",group_order=NULL,...)
+plot_dot_column(x,y,y_threshold_for_shifting=0.1,lateral_shift=0.06,type="p",...)
 }
 
 \arguments{
