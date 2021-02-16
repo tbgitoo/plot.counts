@@ -6,5 +6,5 @@ Date: 2012-07-22
 Author: Thomas Braschler
 Maintainer: Thomas Braschler <thomas.braschler@gmail.com>
 Description: T-tests, elementary linear regression and plotting of count data
-License: GPL (>= 2)
+License: GPL-3 | file LICENCE
 LazyLoad: yes
